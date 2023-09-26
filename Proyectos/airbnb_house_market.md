@@ -23,7 +23,7 @@ por contrato, temporalmente o directamente dejar vacío su inmueble (estas decis
 <img src="https://pbs.twimg.com/media/Fonr4iMWYAAAOTC.jpg" >
 <p align="center">
 
-En la imagen anterior se puede apreciar la distrubución y concentración de alquileres temporarios que existen en la Capital Federal, lo cual está causando (como en muchas ciudades del mundo) un aumento en el precio de alquileres, como también una disminución en la oferta de los mismos. 
+En la imagen anterior se puede apreciar la distribución y concentración de alquileres temporarios que existen en la Capital Federal, lo cual está causando (como en muchas ciudades del mundo) un aumento en el precio de alquileres, como también una disminución en la oferta de los mismos. 
   
 En este proyecto les proponemos hacer un estudio del mercado de viviendas de los Estados Unidos, donde el enfoque lo van a poder elegir ustedes como grupo. Les acercamos algunas propuestas para que tengan en cuenta (pueden utilizar una, más de una, o directamente
 proponer otra ustedes), el contexto sería el siguiente:  
